@@ -1,0 +1,26 @@
+#welcome {
+  text-align: center;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#welcome h2,
+#welcome p {
+  margin-bottom: 1rem;
+}
+
+#welcome p {
+  color: #8435de;
+}
+
+#welcome img {
+  margin-top: 2rem;
+}
+
+@media (min-width: 350px) and (max-width: 450px) {
+  #welcome img {
+    width: 300px;
+  }
+}
