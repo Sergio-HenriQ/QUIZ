@@ -2,13 +2,18 @@
 
 ## Caracteristicas da aplicação:
 
-- Tela de Introdução, para iniciar o quiz.
-- Tela da questão e as alternativas em formato de card.
-- Tela de Fim de jogo, com a pontuação e a opção de reiniciar o quiz.
+- Tela de introdução, para iniciar o quiz.
+- Tela de seleção de categoria das questões.
+- Tela da questão e as alternativas em formato de card, com funcionalidades de ajuda.
+- Tela de Fim de jogo, com a pontuação final e a opção de reiniciar o quiz.
 
 ### Introdução
 
 ![Tela de Introdução](public/assets/quiz_home.png)
+
+### Selecão de Categoria
+
+![Tela de Seleção de Categoria](public/assets/quiz_category.png)
 
 ### Questão
 
